@@ -1,0 +1,13 @@
+#忽略产生的数据文件
+*.dat
+*.txt
+
+#忽略编译生成的.o文件
+*.o
+
+#保留svm源码的LICENSE
+!LICENSE.txt
+
+#忽略生成的图片
+/data/test_image
+/data/train_image
